@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "KuitcaDylan-Parcial-THP2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node test/testAll.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
